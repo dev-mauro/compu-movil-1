@@ -1,0 +1,1 @@
+enum AppViews { inicio, registro, faq, consulta }
